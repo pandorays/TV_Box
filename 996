@@ -30,55 +30,15 @@
 
    
 
-                {
+  
 
-            "url": "https://weixine.net/ysc.json",
-
-            "name": "运输车(跑马灯).NET"
-
-        },       
-
-
-
-
-
-
-
-                {
-
-            "url": "https://jihulab.com/bh666/YGBH/-/raw/main/ygbox.json",
-
-            "name": "宝盒汇·月光宝盒.COM"
-
-        },
-
-
-
-
-
-
-
-                {
+        {
 
             "url": "http://xhww.fun:63/小米/DEMO.json",
 
             "name": "XIAOMI.小暴脾气.FUN"
 
         },
-
-
-
-
-
-
-
-                {
-
-            "url": "http://饭太硬.top/tv",
-
-            "name": "饭太硬.TOP"
-
-        }
 
          
 
@@ -87,7 +47,39 @@
    
 
   
+
+        {
+
+            "url": "ttp://饭太硬.top/tv",
+
+            "name": "饭太硬.TOP"
+
+        },
+
+         
+
+
+
+   
+
+  
+
+                {
+
+            "url": "https://jihulab.com/bh666/YGBH/-/raw/main/ygbox.json",
+
+            "name": "宝盒汇·月光宝盒.COM"
+
+        }
+
+       
+
+       
+
+        
+
       
+
     ]
 
 }

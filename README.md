@@ -14,8 +14,9 @@ TVBox配置文件。所有资源均来自于各路大神无私分享，如有侵
 
 
 #TVBox各路大佬配置（排名不分先后）：
-本仓库多仓合集线路
+本仓库多仓线路
 https://get.66a.zone/https://raw.githubusercontent.com/Crap996/TV_Box/main/996.TV
+
 多仓线路
 
 （1）应用多多：https://jihulab.com/duomv/apps/-/raw/main/fast.json

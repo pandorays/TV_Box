@@ -28,15 +28,15 @@
 
 
 
-
+   
 
         {
 
-            "url": "http://饭太硬.top/tv",
+            "url": "https://weixine.net/ysc.json",
 
-            "name": "饭太硬.TOP"
+            "name": "运输车(跑马灯).NET"
 
-        },
+        }        
 
 
 
@@ -50,7 +50,7 @@
 
             "name": "宝盒汇·月光宝盒.COM"
 
-        },
+        }        
 
 
 
@@ -64,7 +64,8 @@
 
             "name": "XIAOMI.小暴脾气.FUN"
 
-        },
+        }        
+
 
 
 
@@ -78,21 +79,8 @@
 
             "name": "喵喵.GIT"
 
-        },
+        }        
 
-
-
-
-
-
-
-        {
-
-            "url": "https://weixine.net/ysc.json",
-
-            "name": "运输车（跑马灯）.NET"
-
-        }
 
 
 
@@ -101,12 +89,11 @@
 
 
         {
-
             "url": "http://xhdwc.tk/0",
 
             "name": "纯一骚零.TK"
 
-        }
+        }        
 
 
 
@@ -115,13 +102,11 @@
 
 
         {
-
             "url": "http://蜂蜜.eu.org",
 
             "name": "蜂蜜.ORG"
 
-        }
-
+        }        
 
 
 
@@ -130,12 +115,11 @@
 
 
         {
-
             "url": "https://tvbox.cainisi.cf",
 
             "name": "菜妮丝 XBPQ.CF"
 
-        }
+        }        
 
 
 
@@ -145,34 +129,21 @@
 
         {
 
-            "url": "http://home.jundie.top:81/top98.json",
+            "url": "ttp://饭太硬.top/tv",
 
-            "name": "俊佬.TOP"
+            "name": "饭太硬.TOP"
 
-        }
+        },
 
-
-
-
+         
 
 
 
-        {
+   
 
-            "url": "https://yydsys.top/duo",
+  
 
-            "name": "应用多多.TOP"
-
-        }
-
-
-
-
-
-
-
-
-
+      
     ]
 
 }
